@@ -1,0 +1,14 @@
+{
+  "name": "jpeg2kernelboot",
+  "version": "1.0.0",
+  "description": "Create boot splash screen from jpeg url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
